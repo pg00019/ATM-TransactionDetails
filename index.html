@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ATM</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <center>
+      <!-- Welcome message -->
+      <h1>Welcome to Page!</h1>
+      <!-- informative message -->
+      <p class="message">
+        Fill the information to know your transaction details
+      </p>
+      <br /><br /><br />
+      <!-- form  -->
+      <form action="TransactionDetails.php" method="POST">
+        <!-- input field -->
+        <b class="text"> Enter Reference Number : </b>
+        <input
+          class="input"
+          type="number"
+          placeholder="Reference Number "
+          name="referNo"
+        />
+        <br />
+        <br />
+        <br />
+        <!-- Submit button -->
+        <input class="button" type="submit" value="Submit" />
+      </form>
+    </center>
+  </body>
+</html>
