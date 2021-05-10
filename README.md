@@ -13,6 +13,7 @@ PHP program to check ATM transaction details
 
 index.html 
 
+![alt text](https://github.com/pg00019/ATM-TransactionDetails/blob/main/output_images/html.png?raw=true)
 
 
 
@@ -22,10 +23,14 @@ index.html
 
 Transaction.php
 
+![alt text](https://github.com/pg00019/ATM-TransactionDetails/blob/main/output_images/php.png?raw=true)
+
 
 
 
 
 
 database : mysql
+
+![alt text](https://github.com/pg00019/ATM-TransactionDetails/blob/main/output_images/database.png?raw=true)
 
